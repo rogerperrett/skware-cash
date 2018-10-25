@@ -6,3 +6,11 @@ The list of transactions still isn't loading!
 
 *******************************************************
 *******************************************************
+
+script src was incorrect.
+
+before: <script type="text/javascript" src="data.js"></script>
+after: <script type="text/javascript" src="../data.js"></script>
+
+before: <script type="text/javascript" src="index.js"></script>
+after: <script type="text/javascript" src="../index.js"></script>

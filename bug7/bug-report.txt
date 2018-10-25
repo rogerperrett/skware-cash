@@ -6,3 +6,5 @@ Every row in the transaction list has a weird comma preceding it...
 
 *******************************************************
 *******************************************************
+
+The join function was empty instead of having quotes to create a blank between the join function.

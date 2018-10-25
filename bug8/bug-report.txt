@@ -7,3 +7,5 @@ enter key. I thought it was supposed to filter as I type?
 
 *******************************************************
 *******************************************************
+
+addEventListener on line 34 had the event set to chang instead of input.

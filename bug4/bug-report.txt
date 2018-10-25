@@ -6,3 +6,12 @@ The transaction filtering is case sensitive. That's annoying!
 
 *******************************************************
 *******************************************************
+
+Added toLowerCase() to the search events.
+
+steps taken:
+1. Added toLowerCase() after target.value (Line 35)
+2. Added toLowerCase() after transaction (Line 37)
+3. Added toLowerCase() after transaction.for (Line 38)
+4. Added toLowerCase() after transaction.date (Line 39)
+5. Added toLowerCase() after transaction.amount (Line 40)

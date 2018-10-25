@@ -6,3 +6,5 @@ There's no styling on the page at all!
 
 *******************************************************
 *******************************************************
+
+the link to the CSS file was incorrect. It should be href="index.css"> (index.html: line 4)
